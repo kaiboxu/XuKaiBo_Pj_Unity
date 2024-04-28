@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{2A57C643-CFD5-BD7C-1886-46313263FD14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-firstpass", "Assembly-CSharp-firstpass.csproj", "{69F36E53-5305-6415-0436-7DC2681D2938}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AmplifyShaderEditor", "AmplifyShaderEditor.csproj", "{358A7419-646D-AC3C-0D7E-162511F7C775}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A57C643-CFD5-BD7C-1886-46313263FD14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A57C643-CFD5-BD7C-1886-46313263FD14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A57C643-CFD5-BD7C-1886-46313263FD14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A57C643-CFD5-BD7C-1886-46313263FD14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69F36E53-5305-6415-0436-7DC2681D2938}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69F36E53-5305-6415-0436-7DC2681D2938}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69F36E53-5305-6415-0436-7DC2681D2938}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69F36E53-5305-6415-0436-7DC2681D2938}.Release|Any CPU.Build.0 = Release|Any CPU
+		{358A7419-646D-AC3C-0D7E-162511F7C775}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{358A7419-646D-AC3C-0D7E-162511F7C775}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{358A7419-646D-AC3C-0D7E-162511F7C775}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{358A7419-646D-AC3C-0D7E-162511F7C775}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
